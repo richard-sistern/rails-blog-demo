@@ -1,6 +1,8 @@
 # README
 
-Adapted from https://www.youtube.com/watch?v=TlgSp2XPCY4
+Adapted from [Intro Ruby on Rails 7 For Beginners Tutorial Series](https://www.youtube.com/playlist?list=PL3mtAHT_eRezB9fnoIcKS4vYFjm23vddb)
+
+## Part 01
 
 rails new blog_demo
 cd blog_demo
